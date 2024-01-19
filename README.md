@@ -87,7 +87,7 @@ print(chat_completion.choices[0].message.content)
 - @donators: Donate $5 or more via [Ko-fi](https://ko-fi.com/zukixa).
 - @subscribers: Donate $5 or more (one-time) and have a recurring donation via [Ko-fi](https://ko-fi.com/zukixa).
 
-[... Continue reading premium details ...]
+
 
 ## Premium Notices
 
